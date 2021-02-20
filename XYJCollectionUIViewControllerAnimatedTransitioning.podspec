@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "XYJCollectionUIViewControllerAnimatedTransitioning"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "转场动画合集。"
 
   # This description is used to generate tags and improve search results.
