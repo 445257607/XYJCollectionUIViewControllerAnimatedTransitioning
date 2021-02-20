@@ -7,7 +7,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <XYJUINavigationControllerPopAnimatedTransitioning.h>
-#import <XYJUINavigationControllerPushAnimatedTransitioning.h>
-#import <XYJUIViewControllerDismissAnimatedTransitioning.h>
-#import <XYJUIViewControllerPresentAnimatedTransitioning.h>
+#import <XYJCollectionUIViewControllerAnimatedTransitioning/XYJUINavigationControllerPopAnimatedTransitioning.h>
+#import <XYJCollectionUIViewControllerAnimatedTransitioning/XYJUINavigationControllerPushAnimatedTransitioning.h>
+#import <XYJCollectionUIViewControllerAnimatedTransitioning/XYJUIViewControllerDismissAnimatedTransitioning.h>
+#import <XYJCollectionUIViewControllerAnimatedTransitioning/XYJUIViewControllerPresentAnimatedTransitioning.h>
