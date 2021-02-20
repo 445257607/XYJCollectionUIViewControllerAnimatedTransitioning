@@ -91,9 +91,9 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "XYJCollectionUIViewControllerAnimatedTransitioning/**/*.{h,m}"
-  spec.exclude_files = "XYJCollectionUIViewControllerAnimatedTransitioning/*.h"
+  # spec.exclude_files = "XYJCollectionUIViewControllerAnimatedTransitioning/*.h"
 
-  # spec.public_header_files = "Classes/**/*.h"
+  spec.public_header_files = "XYJCollectionUIViewControllerAnimatedTransitioning/**/*.h"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -116,8 +116,8 @@ Pod::Spec.new do |spec|
   #  the lib prefix of their name.
   #
 
-  spec.framework  = "UIKit"
-  # spec.frameworks = "SomeFramework", "AnotherFramework"
+  # spec.framework  = "UIKit"
+  spec.frameworks = "UIKit"
 
   # spec.library   = "iconv"
   # spec.libraries = "iconv", "xml2"
